@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .member-card:hover {
   background: var(--card-bg-hover);
-  border: 1px solid var(--primary-accent);
+  /* border: 1px solid var(--primary-accent); */
   transform: translateY(-12px);
   box-shadow: var(--shadow-lg);
 }
