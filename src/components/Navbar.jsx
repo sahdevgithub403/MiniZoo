@@ -20,7 +20,7 @@ const Navbar = ({ isDarkMode, onThemeToggle }) => {
   return (
     <nav className={`navbar ${navScrolled ? 'scrolled' : ''}`}>
       <a href="#hero" className="nav-logo" style={{fontFamily: 'var(--font-script)', fontSize: '2.5rem', textTransform: 'none', letterSpacing: '0'}}>
-        Us.
+        Mini Zoo
       </a>
       <div className="nav-links">
         <a href="#members" className="nav-link">Family</a>
